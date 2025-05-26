@@ -53,7 +53,7 @@ Dataset ini dikumpulkan dari institusi pendidikan tinggi dengan total data 3630 
 | **Previous qualification (grade)** | Nilai kualifikasi sebelumnya | Numerik |
 | **Application order** | Urutan pilihan jurusan saat mendaftar (0 = pilihan pertama, hingga 9) | Numerik |
 | **Daytime/evening attendance** | Tipe kuliah (1 = siang, 0 = malam) | Numerik |
-| **GDP** | GDP (Pertumbuhan ekonomi tahunan | Numerik |
+| **GDP** | GDP (Pertumbuhan ekonomi tahunan) | Numerik |
 | **Course** | Jenis program studi yang diambil | Kategorikal |
 | **Target** | Kategori hasil akhir mahasiswa (`Graduate`, `Dropout`) | Kategorikal |
 
